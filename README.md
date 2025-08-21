@@ -63,7 +63,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaveeshagimhan&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaveeshagimhan&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshagimhan&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaveeshagimhan&layout=compact&theme=radical) 
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=kaveeshagimhan&theme=radical&no-frame=true&margin-w=15)
+
 
 ---
 
