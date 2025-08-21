@@ -70,12 +70,23 @@
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me 
 
-- 📧 [Email](mailto:kaveeshagimhan20@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/kaveesha-gimhan-thennakoon-26572832b/)  
-- 🌍 [Portfolio](https://portfolio-d60d3.web.app/)  
-- 🐙 [GitHub](https://github.com/kaveeshagimhan)  
+<p align="left">
+  <a href="mailto:kaveeshagimhan20@gmail.com">
+    <img src="https://img.icons8.com/ios-filled/40/EA4335/gmail-new.png" alt="email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kaveesha-gimhan-thennakoon-26572832b/">
+    <img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="linkedin"/>
+  </a>
+  <a href="https://portfolio-d60d3.web.app/">
+    <img src="https://img.icons8.com/ios-filled/40/4CAF50/domain.png" alt="portfolio"/>
+  </a>
+  <a href="https://github.com/kaveeshagimhan">
+    <img src="https://img.icons8.com/ios-filled/40/181717/github.png" alt="github"/>
+  </a>
+</p>
+  
 
 ---
 ✨ *“Turning ideas into code, and code into impact.”*  
